@@ -1,7 +1,7 @@
 {
   "name": "yi-fs",
   "version": "1.0.0",
-  "description": "在原生fs模块增加一些常用的方法",
+  "description": "fs模块的增强功能",
   "keywords": [
     "node",
     "fs",
