@@ -1,0 +1,25 @@
+{
+  "name": "yi-fs",
+  "version": "1.0.0",
+  "description": "在原生fs模块增加一些常用的方法",
+  "keywords": [
+    "node",
+    "fs",
+    "file"
+  ],
+  "author": "avicha",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/avicha/fs.git"
+  },
+  "main": "./index",
+  "engines": {
+    "node": ">= 0.4.x"
+  },
+  "dependencies": {
+    "mkdirp": "0.3.5"
+  },
+  "devDependencies": {
+    "coffee-script": "1.4.0"
+  }
+}
