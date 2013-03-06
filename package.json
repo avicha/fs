@@ -1,6 +1,6 @@
 {
   "name": "yi-fs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "fs模块的增强功能",
   "keywords": [
     "node",
@@ -17,7 +17,9 @@
     "node": ">= 0.4.x"
   },
   "dependencies": {
-    "mkdirp": "0.3.5"
+    "underscore" :  "1.4.4",
+    "mkdirp": "0.3.5",
+    "async": "0.2.6"
   },
   "devDependencies": {
     "coffee-script": "1.4.0"
